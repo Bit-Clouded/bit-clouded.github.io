@@ -3,7 +3,8 @@
 
 title: BitClouded Software
 url: "http://www.bitclouded.io"
-baseurl: 
+baseurl:
+google_analytics_tracking_id: UA-54386164-2
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
